@@ -14,6 +14,7 @@ DOM Enlightenment中的微型dom库
     })(window);
 
 
+
 ## 创建dom()与GetOrMakeDom(),全局暴露dom()与GetOrMakeDom.prototype
 
 我们将创建一个函数,根据传入参数返回一个可链式调用的,封装好的含有DOM节点的集合.
